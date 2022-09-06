@@ -15,4 +15,22 @@
 #### CSS (Basic)
 #### JavaScript (Basic)
 
+### Code example:
+```javascript 
+multiply = function (a, b) {
+  return a * b;
+}
+```
+### Work experience:
+#### CV
+
+### Education:
+#### 2016 –2020 Kyiv National University of Technology and Design
+#### Specialty "Computer Science and Information Technology"
+
+### Language:
+#### English - Pre-intermediate
+
+
+
 
