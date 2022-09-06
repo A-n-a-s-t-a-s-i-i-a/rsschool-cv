@@ -1,0 +1,6 @@
+# Anastasiia Karpenko
+
+### E-mail: karpenko.anastasiya@gmail.com
+### Phone: +380956747998
+### Discord: princess^^(@A-n-a-s-t-a-s-i-i-a)
+
